@@ -1,0 +1,17 @@
+{
+    "name": "jerry/enforce",
+    "description": "Really simple enforce helper library",
+    "authors": [
+        {
+            "name": "Jerry Andersson",
+            "email": "Kickupx@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "files": [
+            "enforce.php"
+        ]
+    }
+}
